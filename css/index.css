@@ -1,0 +1,24 @@
+	.windows
+	{
+		background-image:url(./theme/2.jpg);
+		box-shadow: 7px 7px 5px #2f4f4f;
+		background-size:100% 190%;
+		background-repeat:no-repeat;
+		background-position:top;
+		border:0.5px solid;
+		border-radius:20px;
+		width:90%;
+		margin: 0 auto; 
+	}
+
+	.center
+	{
+　　		text-align:center;
+	}
+
+	body
+	{
+		background-color: #5f9ea0;
+	}
+
+	
