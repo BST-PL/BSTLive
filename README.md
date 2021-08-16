@@ -1,5 +1,3 @@
-# BSTLive
-BST Live 配套的网页直播间
 # BST Live
 
 - 配套BST Live推流系统食用
